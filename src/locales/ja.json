@@ -1,1 +1,512 @@
-{}
+{
+  "site": {
+    "name": "Windgate Wiki",
+    "shortName": "Windgate",
+    "tagline": "完全ガイド・建築・クラフト・資源",
+    "description": "Windgate のサンドボックス攻略、資源集め、ツール強化、建築、マルチプレイワールド、コミュニティ制作、基本情報をガイドで解説します。",
+    "legalNotice": "非公式のファンウィキです。プレイヤーがプレイヤーのために作っています。"
+  },
+  "nav": {
+    "menu": "メニュー",
+    "toggleTheme": "テーマを切り替え",
+    "guide": "ガイド",
+    "mechanics": "仕様",
+    "building": "建築",
+    "progression": "進行",
+    "items": "アイテム",
+    "comparison": "比較",
+    "community": "コミュニティ"
+  },
+  "home": {
+    "meta": {
+      "title": "Windgate Wiki - 建築・クラフト・ゲームガイド",
+      "description": "Windgate のサンドボックス攻略、資源集め、ツール強化、建築、マルチプレイワールド、コミュニティ制作、基本情報をガイドで解説します。"
+    },
+    "hero": {
+      "eyebrow": "オープンワールド・マルチプレイサンドボックス",
+      "title": "Windgate Wiki",
+      "description": "Windgate のサンドボックス攻略、資源集め、ツール強化、建築、マルチプレイワールド、コミュニティ制作、基本情報をガイドで解説します。",
+      "stats": [
+        "初心者ガイド",
+        "建築とクラフト",
+        "資源集め",
+        "マルチプレイワールド"
+      ],
+      "primaryCta": "初心者ガイド",
+      "secondaryCta": "ゲームプレイガイド",
+      "tertiaryCta": "建築ガイド",
+      "videoLabel": "ゲームプレイ動画"
+    },
+    "updates": {
+      "title": "最新アップデート",
+      "browse": "すべてのガイドを見る",
+      "viewAll": "すべて表示"
+    },
+    "start": {
+      "eyebrow": "はじめに",
+      "title": "Windgate Wiki の歩き方",
+      "cards": [
+        {
+          "number": "1",
+          "title": "初心者ガイド",
+          "description": "まずは基本サイクルを覚えましょう。伐採、運搬、売却と、初回プレイを黒字にする習慣を解説します。"
+        },
+        {
+          "number": "2",
+          "title": "最速でお金を稼ぐ方法",
+          "description": "ルート計画、積載管理、売却のタイミングで、1回のプレイを安定した収入に変えます。"
+        },
+        {
+          "number": "3",
+          "title": "稼げる木ランキング",
+          "description": "初級・中級・レア・イベント木材を報酬順に並べ、1周で回れるルートも紹介します。"
+        },
+        {
+          "number": "4",
+          "title": "ツール強化",
+          "description": "斧・収納・乗り物のどの強化が先に元を取れるのか、その順番を解説します。"
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "人気ページ",
+      "title": "人気の Windgate ガイド",
+      "quickLinks": [
+        "初心者ルート",
+        "お金稼ぎ",
+        "木材ティア",
+        "ツール強化"
+      ],
+      "cards": [
+        {
+          "badge": "初心者",
+          "title": "初心者ガイド",
+          "description": "最初のルートから最初の強化まで、新規プレイヤー向けの手順を順番に解説します。",
+          "href": "/guide/windgate-beginner-guide"
+        },
+        {
+          "badge": "人気",
+          "title": "お金の稼ぎ方",
+          "description": "準備チェックリスト、大量の丸太運搬、高価値な木の周回、売却戦略をまとめました。",
+          "href": "/guide/windgate-how-to-make-money"
+        },
+        {
+          "badge": "人気",
+          "title": "レアな木",
+          "description": "エボニー、ラバウッド、そして移動前に必要な斧のティアを解説します。",
+          "href": "/items/windgate-rare-trees"
+        },
+        {
+          "badge": "更新",
+          "title": "新しいツール",
+          "description": "新しい斧や乗り物に資金を出す前に、見極める方法を解説します。",
+          "href": "/items/windgate-new-tools"
+        },
+        {
+          "badge": "ガイド",
+          "title": "木材の種類",
+          "description": "木材ごとのレア度、重さ、再出現速度を解説します。",
+          "href": "/mechanics/windgate-wood-types"
+        },
+        {
+          "badge": "人気",
+          "title": "建築ガイド",
+          "description": "最初の家に向けた区画選び、ゾーニング、収納優先のレイアウトを解説します。",
+          "href": "/building/windgate-building-guide"
+        },
+        {
+          "badge": "新着",
+          "title": "ワールド 2.3",
+          "description": "多くのプレイヤーがぶつかる進行の壁と、その準備方法を解説します。",
+          "href": "/progression/windgate-world-23"
+        },
+        {
+          "badge": "ガイド",
+          "title": "ボートの仕様",
+          "description": "水上を渡るたびに影響する風向き、慣性、積荷の重さを解説します。",
+          "href": "/mechanics/windgate-boat"
+        },
+        {
+          "badge": "コミュニティ",
+          "title": "Discord",
+          "description": "本当のコミュニティサーバーの見つけ方と、怪しい招待の避け方を解説します。",
+          "href": "/community/windgate-discord"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Windgate とは？",
+      "paragraphs": [
+        "Windgate は、開発者 Defaultio による Roblox のオープンワールド・マルチプレイサンドボックスです。プレイヤーは木を切り、丸太を運び、鉱石を掘り、集めたものを売って次の強化の資金にします。この名前が最も知られているのは Lumber Tycoon 2 で、そこでの Windgate は木材サイクルの一段階ではなく、プレイヤーがわざわざ向かう名前付きのランドマークです。",
+        "進行はツールのティア、積載量、ルートの知識で決まります。強い斧はより硬く珍しい木材を解禁し、収納と乗り物は採取地点間の移動時間を短縮し、精錬鉄やラバウッドのような加工品は丸太のままよりはるかに高く売れます。Windgate Wiki はその知識を手順ガイド、ティア表、建築の解説にまとめています。"
+      ],
+      "stats": [
+        {
+          "label": "開発",
+          "value": "Defaultio"
+        },
+        {
+          "label": "プラットフォーム",
+          "value": "Roblox"
+        },
+        {
+          "label": "ジャンル",
+          "value": "オープンワールドサンドボックス"
+        },
+        {
+          "label": "基本サイクル",
+          "value": "伐採・運搬・売却"
+        },
+        {
+          "label": "主要ツール",
+          "value": "斧・ツルハシ・ボート"
+        },
+        {
+          "label": "強化ルート",
+          "value": "ツールティア"
+        },
+        {
+          "label": "コミュニティ",
+          "value": "Discord と Reddit"
+        }
+      ],
+      "cta": "すべてのガイドを見る"
+    },
+    "explore": {
+      "title": "Windgate Wiki を探索",
+      "description": "Windgate Wiki の8つのモジュールがゲーム全体を網羅します。初心者ルート、お金稼ぎ、ツールと装備、木材ティア、建築、マルチプレイ、アップデートです。",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Windgate Wiki 初心者ガイド",
+          "description": "新規プレイヤー向けの手順ガイドです。何を持っていくか、最初のルートの立て方、序盤を黒字に保つ習慣を解説します。",
+          "href": "/guide/windgate-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "まず準備を整えましょう。斧を修理または買い替え、移動前に資金の余裕を残しておきます。"
+            },
+            {
+              "label": "2",
+              "detail": "すでに知っているランドマークから出発すると、どれだけ進んだかを測れます。"
+            },
+            {
+              "label": "3",
+              "detail": "行きに目立つ特徴を2〜3つ覚えておくと、帰り道を見つけやすくなります。"
+            },
+            {
+              "label": "4",
+              "detail": "決まったルートを回りましょう。まず中級の広葉樹で確実な基準を作り、その後レアを順番に狙います。"
+            },
+            {
+              "label": "5",
+              "detail": "残りの積載は、実際に斧で倒せる最も高いティアの木材で埋めましょう。"
+            },
+            {
+              "label": "6",
+              "detail": "積荷を売るか加工し、強化を買う前に報酬の20〜30%を貯金します。"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Windgate Wiki ゲームプレイガイド",
+          "description": "基本サイクルの組み立て方です。伐採、運搬、売却と、1回の遠征の価値を決めるランドマークを解説します。",
+          "href": "/guide/windgate-tutorial",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "探索",
+              "detail": "Windgate は任意のランドマークなので、木材サイクルの一段階ではなく探索目標として扱いましょう。"
+            },
+            {
+              "label": "ルート",
+              "detail": "ランドマークはゲームのバージョンで変わるため、出発前に現在のルートを確認しましょう。"
+            },
+            {
+              "label": "売却",
+              "detail": "丸太のまま安値で流すのではなく、価値の高い積荷は売るか加工しましょう。"
+            },
+            {
+              "label": "収納",
+              "detail": "売却地点と炉の近くに収納を置くと、毎回の遠征を削る移動時間をなくせます。"
+            },
+            {
+              "label": "強化",
+              "detail": "まずは強い斧と積載量に投資しましょう。どちらも毎回の収入を増やします。"
+            },
+            {
+              "label": "忍耐",
+              "detail": "2〜3回の挑戦を見込んでおき、終わったら他のプレイヤーと情報を交換しましょう。"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Windgate Wiki のコツと裏技",
+          "description": "時間を守る小さな判断です。積載管理、ルート計画、貯金の習慣、利益を削るミスを解説します。",
+          "href": "/items/windgate-best-resources",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "積載",
+              "detail": "遠征前にインベントリを空にしましょう。無駄な重さは遠征1回分の利益を消します。"
+            },
+            {
+              "label": "ルート",
+              "detail": "毎回同じルートを回り、判断の時間を体で覚えた動きに置き換えましょう。"
+            },
+            {
+              "label": "貯金",
+              "detail": "資金の20〜30%を余裕として残し、1回の失敗で進行が消えないようにしましょう。"
+            },
+            {
+              "label": "出現",
+              "detail": "レアの出現時間が来るのを待つ間は、近くの中級エリアで稼ぎましょう。"
+            },
+            {
+              "label": "予備",
+              "detail": "予備の斧を持ち歩き、修理や交換でセッションが早く終わらないようにしましょう。"
+            },
+            {
+              "label": "グループ",
+              "detail": "期間限定のイベント木材は協力しましょう。ソロでは出現を逃し、疲弊してしまいます。"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Windgate Wiki ツールと装備",
+          "description": "斧、乗り物、収納、加工設備を比較し、最も早く元が取れる強化順を解説します。",
+          "href": "/items/windgate-new-tools",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "初期の斧",
+              "detail": "一般的な木材をゆっくり倒せますが、ルートを覚えて最初の資金を作るには十分です。",
+              "badge": "ティア1"
+            },
+            {
+              "label": "改良した斧",
+              "detail": "珍しい広葉樹と一部のレアを切れます。収入が目に見えて増える最初の強化です。",
+              "badge": "ティア2"
+            },
+            {
+              "label": "高ティアの斧",
+              "detail": "エボニーのようなレアな木を倒せます。本格的なレア木材稼ぎの入口となる条件です。",
+              "badge": "ティア3"
+            },
+            {
+              "label": "終盤の斧",
+              "detail": "すべての木材ティアを最速の振りで処理し、1回の遠征で最大の丸太を持ち帰れます。",
+              "badge": "ティア4"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Windgate Wiki ゲームモードとワールド",
+          "description": "序盤から中盤の体制、そして Windgate への進出で何が変わるかを解説します。",
+          "href": "/progression/windgate-world-23",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "序盤",
+              "detail": "マップを覚え、売却地点と収納を見つけ、レアを追う前に安定して稼ぎましょう。"
+            },
+            {
+              "label": "中盤",
+              "detail": "ツール強化と収納がボトルネックになり、インベントリ不足が進行を止めます。"
+            },
+            {
+              "label": "進出前",
+              "detail": "必要量のおよそ1.5〜2倍を備蓄し、インベントリを空にして進路を下見しましょう。"
+            },
+            {
+              "label": "ゲート後",
+              "detail": "新しいツールティアで経済を立て直しましょう。ゲート前の収入ではコストに追いつきません。"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Windgate Wiki ティアリスト",
+          "description": "木材と木のティアを報酬、出現レア度、実際に消費する積載量で順位付けしました。",
+          "href": "/items/windgate-rare-trees",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "ラバウッドなど加工・限定出現の木材です。上限は最も高いですが、計画的なプレイ向けです。"
+            },
+            {
+              "label": "A",
+              "detail": "エボニーのようなレアな木です。高ティアの斧を手に入れたら、深い森への長距離ルートに挑む価値があります。"
+            },
+            {
+              "label": "B",
+              "detail": "中級の広葉樹です。毎日の安定収入であり、すべての稼ぎルートの基準になります。"
+            },
+            {
+              "label": "C",
+              "detail": "初心者向けの針葉樹です。安定していますが安いので、最初の強化までの利用にとどめましょう。"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Windgate Wiki マルチプレイガイド",
+          "description": "他のプレイヤーと遊ぶために、本当のコミュニティサーバーの探し方、遠征での役割分担、損をしない取引を解説します。",
+          "href": "/community/windgate-discord",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "サーバー",
+              "detail": "参加前に招待を確認し、身に覚えのないDMやコメント欄の宣伝は危険信号として扱いましょう。"
+            },
+            {
+              "label": "役割",
+              "detail": "伐採・運搬・売却を分担すれば、グループ1回の遠征がソロ4回分を上回ります。"
+            },
+            {
+              "label": "取引",
+              "detail": "レアなツールに割増を払う前に、在庫、取引履歴、時期を確認しましょう。"
+            },
+            {
+              "label": "イベント",
+              "detail": "期間限定の出現はチャットで調整しましょう。1通のメッセージで20分の探索を省けます。"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Windgate Wiki アップデートとパッチノート",
+          "description": "パッチノート、コミュニティウィキ、自分のサーバーでの確認を使ってルートを最新に保つ方法を解説します。",
+          "href": "/community/windgate-updates",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "パッチノート",
+              "detail": "まず公式ノートを読みましょう。簡潔でも最も信頼できる情報です。",
+              "badge": "情報源"
+            },
+            {
+              "label": "コミュニティウィキ",
+              "detail": "整理され相互参照も充実していますが、新しいアップデートには遅れることがあります。",
+              "badge": "情報源"
+            },
+            {
+              "label": "Discord",
+              "detail": "一次情報として最速ですが品質にばらつきがあるため、重要な点は必ず照合しましょう。",
+              "badge": "情報源"
+            },
+            {
+              "label": "ゲーム内確認",
+              "detail": "古いルートは陳腐化するので、自分のサーバーでランドマークと表示を確認しましょう。",
+              "badge": "要確認"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "よくある質問",
+      "description": "Windgate やその基本サイクル、Windgate Wiki の使い方についてよくある質問に手早く答えます。",
+      "items": [
+        {
+          "question": "Windgate Wiki とは？",
+          "answer": "Windgate Wiki は、開発者 Defaultio による Lumber Tycoon 2 のオープンワールドサンドボックス、Windgate のファン制作ガイドハブです。初心者ルート、お金稼ぎの方法、木材ティア表、ツール強化、建築の解説を一か所にまとめています。"
+        },
+        {
+          "question": "最初の Windgate 遠征には何を持っていくべき？",
+          "answer": "使える斧、ツールと修理のための資金の余裕、そして基本的なマップ知識です。友人がいると道を間違えても早く立て直せますし、昼間のプレイは方角が格段に分かりやすくなります。"
+        },
+        {
+          "question": "Windgate のガイドによって内容が違うのはなぜ？",
+          "answer": "Windgate は定期的に更新されるゲームの一部で、分かっていることの多くは公式資料ではなくプレイヤーの経験から来ています。2つのガイドが食い違うときは新しい方を信じ、自分のサーバーで詳細を確認しましょう。"
+        },
+        {
+          "question": "Windgate は進行に必須ですか？",
+          "answer": "いいえ。Windgate は必須の節目ではなく任意の探索目標なので、訪れる前に長く伐採・建築・売却を続けられます。"
+        },
+        {
+          "question": "Windgate では最初にどの木を狙うべき？",
+          "answer": "中級の広葉樹が安定した稼ぎになります。エボニーのようなレアな木を追う前にここで収入を固め、装備を強化してから限定出現やイベント木材に挑みましょう。"
+        },
+        {
+          "question": "Windgate Wiki は有効なコードを掲載していますか？",
+          "answer": "いいえ。このウィキはガイド、ティア表、仕様に重点を置いており、Windgate のコードは掲載していません。"
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Windgate を探索する準備はできましたか？",
+      "description": "最初のツールから立派な町、共有のマルチプレイワールドまで、Windgate Wiki のコミュニティガイドが始めるために必要なすべてを網羅します。",
+      "primary": "初心者ガイドを読む",
+      "secondary": "Roblox で Windgate をプレイ"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Windgate ガイド",
+    "overviewDescription": "初心者向けの手順、お金稼ぎルート、レアな木、精錬のコツ。Windgate のガイド集は、新規プレイヤーが最初に検索する疑問すべてに答えます。"
+  },
+  "mechanics": {
+    "overviewTitle": "Windgate の仕様",
+    "overviewDescription": "Windgate の各システムの関係を解説します。採取、資源、木、木材の種類、ツール、斧、ボートを分かりやすい言葉で説明します。"
+  },
+  "building": {
+    "overviewTitle": "Windgate の建築",
+    "overviewDescription": "住宅の建築、ガレージ、基礎、公共利用の場所まで、Windgate の建築ガイドが建てられるすべての構造物を解説します。"
+  },
+  "progression": {
+    "overviewTitle": "Windgate の進行",
+    "overviewDescription": "鉄、ワールド 2.3、バージョン 2.7、初心者の進行。セーブが進むにつれて Windgate が新しい内容をどう解放するかを解説します。"
+  },
+  "items": {
+    "overviewTitle": "Windgate のアイテム",
+    "overviewDescription": "レアな木、最良の資源、新しいツール、そして完全な木材ガイド。Windgate のアイテム集は、何を集めるべきか、なぜ重要なのかを解説します。"
+  },
+  "comparison": {
+    "overviewTitle": "Windgate の比較",
+    "overviewDescription": "Windgate と Lumber Tycoon 2、Lumber Tycoon 3、Defaultio との関係、そして今プレイする価値があるかを比較します。"
+  },
+  "community": {
+    "overviewTitle": "Windgate のコミュニティ",
+    "overviewDescription": "Reddit、Discord、コミュニティの建築、アップデート情報。Windgate のプレイヤーが集まり、コツを交換し、変更点を追う場所です。"
+  },
+  "shared": {
+    "wikiNavigation": "ウィキナビゲーション",
+    "activeCodes": "有効なコード",
+    "updated": "更新",
+    "viewAllCodes": "すべてのコードを見る",
+    "playOnRoblox": "Roblox でプレイ",
+    "inThisSection": "このセクション",
+    "tableOfContents": "目次",
+    "nextSteps": "次のステップ",
+    "needHelp": "助けが必要ですか？",
+    "relatedReading": "関連記事",
+    "relatedGuides": "関連ガイド",
+    "readMore": "続きを読む",
+    "officialMedia": "公式メディア",
+    "home": "ホーム",
+    "noGuidesAvailable": "まだガイドがありません。しばらくしてからもう一度お越しください。",
+    "noActiveCodes": "現在有効なコードはありません。しばらくしてからもう一度お越しください。"
+  },
+  "footer": {
+    "aboutTitle": "Windgate Wiki",
+    "about": "Windgate Wiki は、サンドボックスの遊び方、資源集め、ツール強化、建築、クラフト、そして基本的なゲーム知識を扱う、ファン制作の独立したガイドハブです。新規プレイヤーにも熟練プレイヤーにも役立ちます。",
+    "quickLinks": "クイックリンク",
+    "guides": "ガイド",
+    "legal": "法的事項",
+    "copyright": "2026 Windgate Wiki. Defaultio および Roblox とは提携していません。",
+    "description": "Roblox の無料マルチプレイ・オープンワールド・サンドボックス建築＆探索ゲーム。",
+    "playGame": "Roblox で Windgate をプレイ",
+    "creatorPage": "Roblox の Defaultio",
+    "gameplayVideo": "Windgate ゲームプレイ動画",
+    "beginnerGuide": "初心者ガイド",
+    "worldsGuides": "ワールドとバージョン",
+    "privacyPolicy": "プライバシーポリシー",
+    "termsOfService": "利用規約"
+  }
+}

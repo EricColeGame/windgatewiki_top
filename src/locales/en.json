@@ -490,7 +490,8 @@
     "readMore": "Read more",
     "officialMedia": "Official media",
     "home": "Home",
-    "noGuidesAvailable": "No guides available yet. Check back soon!"
+    "noGuidesAvailable": "No guides available yet. Check back soon!",
+    "noActiveCodes": "No active codes currently available. Check back soon!"
   },
   "footer": {
     "aboutTitle": "Windgate Wiki",

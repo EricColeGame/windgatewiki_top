@@ -1,1 +1,512 @@
-{}
+{
+  "site": {
+    "name": "Windgate Wiki",
+    "shortName": "Windgate",
+    "tagline": "Guías completas, construcción, fabricación y recursos",
+    "description": "Explora Windgate con guías sobre el juego sandbox, la recolección de recursos, las mejoras de herramientas, la construcción, los mundos multijugador, la creación de comunidades y la información esencial del juego.",
+    "legalNotice": "Wiki de fans no oficial. Hecha por jugadores, para jugadores."
+  },
+  "nav": {
+    "menu": "Menú",
+    "toggleTheme": "Cambiar tema",
+    "guide": "Guía",
+    "mechanics": "Mecánicas",
+    "building": "Construcción",
+    "progression": "Progresión",
+    "items": "Objetos",
+    "comparison": "Comparativas",
+    "community": "Comunidad"
+  },
+  "home": {
+    "meta": {
+      "title": "Windgate Wiki - Guía de construcción, fabricación y juego",
+      "description": "Explora Windgate con guías sobre el juego sandbox, la recolección de recursos, las mejoras de herramientas, la construcción, los mundos multijugador, la creación de comunidades y la información esencial del juego."
+    },
+    "hero": {
+      "eyebrow": "Sandbox multijugador de mundo abierto",
+      "title": "Windgate Wiki",
+      "description": "Explora Windgate con guías sobre el juego sandbox, la recolección de recursos, las mejoras de herramientas, la construcción, los mundos multijugador, la creación de comunidades y la información esencial del juego.",
+      "stats": [
+        "Guías para principiantes",
+        "Construcción y fabricación",
+        "Recolección de recursos",
+        "Mundos multijugador"
+      ],
+      "primaryCta": "Guía para principiantes",
+      "secondaryCta": "Guía de juego",
+      "tertiaryCta": "Guía de construcción",
+      "videoLabel": "Vídeo de juego"
+    },
+    "updates": {
+      "title": "Últimas actualizaciones",
+      "browse": "Ver todas las guías",
+      "viewAll": "Ver todo"
+    },
+    "start": {
+      "eyebrow": "Empieza aquí",
+      "title": "Tu recorrido por Windgate Wiki",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guía para principiantes",
+          "description": "Aprende primero el bucle principal: talar, transportar, vender y los hábitos que hacen rentable la primera partida."
+        },
+        {
+          "number": "2",
+          "title": "La forma más rápida de ganar dinero",
+          "description": "Planificación de rutas, gestión de la carga y buen momento de venta que convierten una sola sesión en ingresos fiables."
+        },
+        {
+          "number": "3",
+          "title": "Los mejores árboles para ganar dinero",
+          "description": "Maderas iniciales, intermedias, raras y de evento ordenadas por ganancia, además de las rutas que las consiguen en una sola vuelta."
+        },
+        {
+          "number": "4",
+          "title": "Mejoras de herramientas",
+          "description": "Qué mejoras de hacha, almacenamiento y vehículo se amortizan primero, y en qué orden."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Páginas populares",
+      "title": "Guías de Windgate en tendencia",
+      "quickLinks": [
+        "Rutas para principiantes",
+        "Ganar dinero",
+        "Niveles de madera",
+        "Mejoras de herramientas"
+      ],
+      "cards": [
+        {
+          "badge": "Principiante",
+          "title": "Guía para principiantes",
+          "description": "Un inicio paso a paso para jugadores nuevos, desde la primera ruta hasta la primera mejora.",
+          "href": "/guide/windgate-beginner-guide"
+        },
+        {
+          "badge": "Popular",
+          "title": "Cómo ganar dinero",
+          "description": "Lista de preparación, transporte de troncos en grandes cantidades, rutas de árboles valiosos y estrategia de venta.",
+          "href": "/guide/windgate-how-to-make-money"
+        },
+        {
+          "badge": "Popular",
+          "title": "Árboles raros",
+          "description": "Ébano, madera de lava y el nivel de hacha que exige cada árbol raro antes de viajar.",
+          "href": "/items/windgate-rare-trees"
+        },
+        {
+          "badge": "Actualizado",
+          "title": "Herramientas nuevas",
+          "description": "Cómo evaluar un hacha o un vehículo nuevos antes de gastar tu dinero en ellos.",
+          "href": "/items/windgate-new-tools"
+        },
+        {
+          "badge": "Guía",
+          "title": "Tipos de madera",
+          "description": "Niveles de rareza, peso y velocidad de reaparición explicados para cada tipo de madera.",
+          "href": "/mechanics/windgate-wood-types"
+        },
+        {
+          "badge": "Popular",
+          "title": "Guía de construcción",
+          "description": "Elección de parcela, zonificación y diseños que priorizan el almacenamiento para tu primera casa.",
+          "href": "/building/windgate-building-guide"
+        },
+        {
+          "badge": "Nuevo",
+          "title": "Mundo 2.3",
+          "description": "El muro de progresión con el que choca la mayoría de los jugadores, y cómo prepararse para él.",
+          "href": "/progression/windgate-world-23"
+        },
+        {
+          "badge": "Guía",
+          "title": "Mecánicas de barcos",
+          "description": "Alineación del viento, inercia y peso de la carga en cada travesía por el agua.",
+          "href": "/mechanics/windgate-boat"
+        },
+        {
+          "badge": "Comunidad",
+          "title": "Discord",
+          "description": "Cómo encontrar un servidor comunitario real y evitar invitaciones engañosas.",
+          "href": "/community/windgate-discord"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "¿Qué es Windgate?",
+      "paragraphs": [
+        "Windgate es un sandbox multijugador de mundo abierto en Roblox del desarrollador Defaultio, donde los jugadores talan árboles, transportan troncos, extraen mineral y venden lo recolectado para financiar la siguiente mejora. El nombre se conoce sobre todo en Lumber Tycoon 2, donde Windgate es un punto de referencia con nombre al que los jugadores viajan, en lugar de un paso del bucle habitual de la madera.",
+        "El progreso depende de los niveles de herramienta, la capacidad de carga y el conocimiento de las rutas. Un hacha más potente desbloquea madera más densa y rara, el almacenamiento y los vehículos reducen el tiempo de viaje entre zonas, y los productos procesados como el hierro refinado o la madera de lava se venden mucho más caros que los troncos sin procesar. Windgate Wiki reúne ese conocimiento en guías paso a paso, tablas de niveles y recorridos de construcción."
+      ],
+      "stats": [
+        {
+          "label": "Desarrollador",
+          "value": "Defaultio"
+        },
+        {
+          "label": "Plataforma",
+          "value": "Roblox"
+        },
+        {
+          "label": "Género",
+          "value": "Sandbox de mundo abierto"
+        },
+        {
+          "label": "Bucle principal",
+          "value": "Talar, transportar, vender"
+        },
+        {
+          "label": "Herramientas clave",
+          "value": "Hacha, pico, barco"
+        },
+        {
+          "label": "Ruta de mejoras",
+          "value": "Niveles de herramienta"
+        },
+        {
+          "label": "Comunidad",
+          "value": "Discord y Reddit"
+        }
+      ],
+      "cta": "Explora todas las guías"
+    },
+    "explore": {
+      "title": "Explora Windgate Wiki",
+      "description": "Ocho módulos de Windgate Wiki cubren todo el bucle del juego: rutas para principiantes, ganar dinero, herramientas y equipo, niveles de madera, construcción, multijugador y actualizaciones.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Guía para principiantes de Windgate Wiki",
+          "description": "Un inicio paso a paso para jugadores nuevos: qué llevar, cómo planificar la primera ruta y los hábitos que mantienen rentables las primeras sesiones.",
+          "href": "/guide/windgate-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Prepara todo primero: repara o cambia tu hacha y guarda una reserva de dinero antes de viajar."
+            },
+            {
+              "label": "2",
+              "detail": "Empieza desde un punto de referencia que ya conozcas para poder medir cuánto te has alejado."
+            },
+            {
+              "label": "3",
+              "detail": "Fíjate en dos o tres rasgos distintivos a la ida para poder encontrar el camino de vuelta."
+            },
+            {
+              "label": "4",
+              "detail": "Sigue una ruta fija: primero madera dura intermedia para asegurar una base, después las apariciones raras en orden."
+            },
+            {
+              "label": "5",
+              "detail": "Llena el espacio restante con la madera del nivel más alto que tu hacha pueda talar de verdad."
+            },
+            {
+              "label": "6",
+              "detail": "Vende o procesa la carga y guarda el 20-30% de la ganancia antes de comprar mejoras."
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Guía de juego de Windgate Wiki",
+          "description": "Cómo encaja el bucle principal: talar, transportar, vender y los puntos de referencia que deciden cuánto vale un viaje.",
+          "href": "/guide/windgate-tutorial",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Explorar",
+              "detail": "Windgate es un punto de referencia opcional, así que trátalo como un objetivo de exploración y no como un paso del bucle de la madera."
+            },
+            {
+              "label": "Rutas",
+              "detail": "Confirma la ruta actual antes de decidirte, porque los puntos de referencia cambian entre versiones del juego."
+            },
+            {
+              "label": "Venta",
+              "detail": "Vende o procesa las cargas valiosas en lugar de malvender troncos sin procesar al precio base."
+            },
+            {
+              "label": "Almacenamiento",
+              "detail": "El almacenamiento cerca de tu punto de venta y del horno elimina el tiempo de viaje que resta valor a cada vuelta."
+            },
+            {
+              "label": "Mejoras",
+              "detail": "Gasta primero en un hacha más potente y más capacidad de carga, porque aumentan los ingresos en cada viaje."
+            },
+            {
+              "label": "Paciencia",
+              "detail": "Cuenta con dos o tres intentos y compara impresiones con otros jugadores al terminar."
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Trucos y consejos de Windgate Wiki",
+          "description": "Decisiones pequeñas que protegen tu tiempo: gestión de la carga, planificación de rutas, hábitos de ahorro y los errores que se comen el beneficio.",
+          "href": "/items/windgate-best-resources",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Carga",
+              "detail": "Vacía el inventario por completo antes de una vuelta, porque el peso muerto cuesta el beneficio de todo un viaje."
+            },
+            {
+              "label": "Ruta",
+              "detail": "Sigue una ruta fija en cada sesión para que la memoria muscular sustituya al tiempo de decisión."
+            },
+            {
+              "label": "Ahorro",
+              "detail": "Mantén un colchón de dinero del 20-30% para que una sola vuelta mala no arruine tu progreso."
+            },
+            {
+              "label": "Apariciones",
+              "detail": "Explota una zona intermedia cercana mientras esperas a que se abra la ventana de aparición de un árbol raro."
+            },
+            {
+              "label": "Respaldo",
+              "detail": "Lleva un hacha de repuesto para que una reparación o un cambio nunca terminen la sesión antes de tiempo."
+            },
+            {
+              "label": "Grupo",
+              "detail": "Júntate con otros para la madera de evento con tiempo limitado, porque buscar en solitario deja pasar apariciones y agota a los jugadores."
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Herramientas y equipo de Windgate Wiki",
+          "description": "Comparativa de hachas, vehículos, almacenamiento y equipo de procesado, con el orden de mejora que se amortiza más rápido.",
+          "href": "/items/windgate-new-tools",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Hacha inicial",
+              "detail": "Tala madera común despacio, suficiente para aprender rutas y crear tu primer colchón de dinero.",
+              "badge": "Nivel 1"
+            },
+            {
+              "label": "Hacha mejorada",
+              "detail": "Corta maderas duras poco comunes y algunas raras, y es la primera mejora que sube los ingresos de forma visible.",
+              "badge": "Nivel 2"
+            },
+            {
+              "label": "Hacha de alto nivel",
+              "detail": "Tala árboles raros como el ébano, y es el requisito de entrada para farmear madera rara de verdad.",
+              "badge": "Nivel 3"
+            },
+            {
+              "label": "Hacha de fin de partida",
+              "detail": "Maneja todos los niveles de madera con la mayor velocidad de golpe para lograr el máximo de troncos por viaje.",
+              "badge": "Nivel 4"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Modos de juego y mundos de Windgate Wiki",
+          "description": "Qué cambia al pasar de las primeras sesiones a las configuraciones de mitad de partida y al propio avance hacia Windgate.",
+          "href": "/progression/windgate-world-23",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Fase inicial",
+              "detail": "Aprende el mapa, encuentra tu punto de venta y tu almacenamiento, y gana de forma constante antes de ir a por los raros."
+            },
+            {
+              "label": "Fase media",
+              "detail": "Las mejoras de herramientas y el almacenamiento se vuelven el cuello de botella, y quedarse sin espacio de inventario bloquea el progreso."
+            },
+            {
+              "label": "Antes del avance",
+              "detail": "Acumula entre 1,5 y 2 veces tu necesidad estimada y explora el camino con el inventario vacío."
+            },
+            {
+              "label": "Después del portal",
+              "detail": "Reconstruye tu economía con el nuevo nivel de herramienta, porque los ingresos previos al portal ya no cubren los costes."
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Lista de niveles de Windgate Wiki",
+          "description": "Niveles de maderas y árboles ordenados por ganancia, rareza de aparición y la capacidad de carga que realmente consume cada uno.",
+          "href": "/items/windgate-rare-trees",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "La madera de lava y otras maderas refinadas o de aparición limitada: el techo más alto, solo para sesiones planificadas."
+            },
+            {
+              "label": "A",
+              "detail": "Árboles raros como el ébano, que merecen una ruta larga hacia el bosque profundo cuando ya tienes un hacha de alto nivel."
+            },
+            {
+              "label": "B",
+              "detail": "Maderas duras intermedias, el ingreso diario estable y la base de cualquier ruta de dinero."
+            },
+            {
+              "label": "C",
+              "detail": "Maderas blandas iniciales: fiables pero de poco valor, así que úsalas solo hasta tu primera mejora."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Guía multijugador de Windgate Wiki",
+          "description": "Jugar con otros: encontrar un servidor comunitario real, repartir roles en una vuelta y comerciar sin salir perjudicado.",
+          "href": "/community/windgate-discord",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Servidores",
+              "detail": "Verifica una invitación antes de entrar y toma los mensajes privados no solicitados y el spam en comentarios como señales de alarma."
+            },
+            {
+              "label": "Roles",
+              "detail": "Reparte tala, transporte y venta para que una vuelta en grupo supere a cuatro vueltas en solitario."
+            },
+            {
+              "label": "Intercambios",
+              "detail": "Comprueba la disponibilidad, el historial de intercambios y el momento antes de pagar de más por una herramienta rara."
+            },
+            {
+              "label": "Eventos",
+              "detail": "Coordina las apariciones con tiempo limitado en el chat, porque un solo mensaje puede ahorrar veinte minutos de búsqueda."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Actualizaciones y notas del parche de Windgate Wiki",
+          "description": "Cómo mantener tus rutas al día con las notas del parche, las wikis de la comunidad y comprobaciones en tu propio servidor.",
+          "href": "/community/windgate-updates",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Notas del parche",
+              "detail": "Lee primero las notas oficiales, porque son la fuente autorizada aunque sean escuetas.",
+              "badge": "Fuente"
+            },
+            {
+              "label": "Wiki de la comunidad",
+              "detail": "Bien estructurada y con referencias cruzadas, pero puede quedarse atrás tras una actualización reciente.",
+              "badge": "Fuente"
+            },
+            {
+              "label": "Discord",
+              "detail": "Los informes de primera mano más rápidos, con calidad variable, así que verifica lo importante.",
+              "badge": "Fuente"
+            },
+            {
+              "label": "Comprobación en el juego",
+              "detail": "Las rutas antiguas quedan obsoletas, así que confirma los puntos de referencia y los avisos en tu propio servidor.",
+              "badge": "Verificar"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Preguntas frecuentes",
+      "description": "Respuestas rápidas a las preguntas más comunes sobre Windgate, su bucle principal y cómo usar Windgate Wiki.",
+      "items": [
+        {
+          "question": "¿Qué es Windgate Wiki?",
+          "answer": "Windgate Wiki es un centro de guías hecho por fans para Windgate, el sandbox de mundo abierto de Lumber Tycoon 2 del desarrollador Defaultio. Reúne en un solo lugar rutas para principiantes, métodos para ganar dinero, tablas de niveles de madera, mejoras de herramientas y recorridos de construcción."
+        },
+        {
+          "question": "¿Qué debería llevar en mi primera incursión en Windgate?",
+          "answer": "Un hacha en buen estado, una reserva de dinero para herramientas y reparaciones, y conocimientos básicos del mapa. Un amigo te ayuda a recuperarte antes de un desvío equivocado, y jugar de día facilita mucho la orientación."
+        },
+        {
+          "question": "¿Por qué las distintas guías de Windgate no coinciden?",
+          "answer": "Windgate forma parte de un juego que recibe actualizaciones periódicas, y gran parte de lo que se sabe proviene de la experiencia de los jugadores y no de documentación oficial. Cuando dos guías se contradicen, confía en la más reciente y confirma los detalles en tu propio servidor."
+        },
+        {
+          "question": "¿Es Windgate obligatorio para progresar?",
+          "answer": "No. Windgate funciona como un objetivo de exploración opcional y no como un hito obligatorio, así que puedes talar, construir y vender durante mucho tiempo antes de visitarlo."
+        },
+        {
+          "question": "¿Qué árboles conviene farmear primero en Windgate?",
+          "answer": "Las maderas duras intermedias son el ingreso estable. Basa tus ganancias en ellas antes de ir a por árboles raros como el ébano, y solo recurre a maderas de aparición limitada o de evento cuando hayas mejorado tu equipo."
+        },
+        {
+          "question": "¿Windgate Wiki publica códigos activos?",
+          "answer": "No. La wiki se centra en guías, tablas de niveles y mecánicas, y no publica códigos canjeables de Windgate."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "¿Listo para explorar Windgate?",
+      "description": "Desde tus primeras herramientas hasta pueblos completos y mundos multijugador compartidos, las guías de la comunidad de Windgate Wiki cubren todo lo que necesitas para empezar.",
+      "primary": "Leer la guía para principiantes",
+      "secondary": "Jugar a Windgate en Roblox"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Guía de Windgate",
+    "overviewDescription": "Recorridos para principiantes, rutas para ganar dinero, árboles raros y consejos de fundición: la colección de guías de Windgate responde a todas las preguntas que buscan primero los jugadores nuevos."
+  },
+  "mechanics": {
+    "overviewTitle": "Mecánicas de Windgate",
+    "overviewDescription": "Cómo encajan los sistemas de Windgate: farmeo, recursos, árboles, tipos de madera, herramientas, hachas y barcos explicados con palabras sencillas."
+  },
+  "building": {
+    "overviewTitle": "Construcción en Windgate",
+    "overviewDescription": "Construcción de casas, garajes, cimientos y ubicaciones de uso público: las guías de construcción de Windgate repasan todas las estructuras que puedes levantar."
+  },
+  "progression": {
+    "overviewTitle": "Progresión en Windgate",
+    "overviewDescription": "Hierro, Mundo 2.3, versión 2.7 y progresión para principiantes: descubre cómo Windgate desbloquea contenido nuevo a medida que avanza tu partida."
+  },
+  "items": {
+    "overviewTitle": "Objetos de Windgate",
+    "overviewDescription": "Árboles raros, mejores recursos, herramientas nuevas y la guía completa de maderas: la colección de objetos de Windgate explica qué recolectar y por qué importa."
+  },
+  "comparison": {
+    "overviewTitle": "Comparativas de Windgate",
+    "overviewDescription": "Windgate frente a Lumber Tycoon 2, Lumber Tycoon 3, la conexión con Defaultio y si merece la pena jugarlo ahora mismo."
+  },
+  "community": {
+    "overviewTitle": "Comunidad de Windgate",
+    "overviewDescription": "Reddit, Discord, construcciones de la comunidad y noticias de actualizaciones: donde se reúnen los jugadores de Windgate, intercambian consejos y siguen los cambios."
+  },
+  "shared": {
+    "wikiNavigation": "Navegación de la wiki",
+    "activeCodes": "Códigos activos",
+    "updated": "Actualizado",
+    "viewAllCodes": "Ver todos los códigos",
+    "playOnRoblox": "Jugar en Roblox",
+    "inThisSection": "En esta sección",
+    "tableOfContents": "Índice de contenidos",
+    "nextSteps": "Próximos pasos",
+    "needHelp": "¿Necesitas ayuda?",
+    "relatedReading": "Lecturas relacionadas",
+    "relatedGuides": "Guías relacionadas",
+    "readMore": "Leer más",
+    "officialMedia": "Medios oficiales",
+    "home": "Inicio",
+    "noGuidesAvailable": "Todavía no hay guías disponibles. ¡Vuelve pronto!",
+    "noActiveCodes": "Todavía no hay códigos activos disponibles. ¡Vuelve pronto!"
+  },
+  "footer": {
+    "aboutTitle": "Windgate Wiki",
+    "about": "Windgate Wiki es un centro de guías independiente hecho por fans que cubre el juego sandbox, la recolección de recursos, las mejoras de herramientas, la construcción, la fabricación y los conocimientos esenciales del juego, tanto para jugadores nuevos como veteranos.",
+    "quickLinks": "Enlaces rápidos",
+    "guides": "Guías",
+    "legal": "Legal",
+    "copyright": "2026 Windgate Wiki. Sin afiliación con Defaultio ni Roblox.",
+    "description": "Juego gratuito de construcción y exploración sandbox multijugador de mundo abierto en Roblox.",
+    "playGame": "Jugar a Windgate en Roblox",
+    "creatorPage": "Defaultio en Roblox",
+    "gameplayVideo": "Vídeo de juego de Windgate",
+    "beginnerGuide": "Guía para principiantes",
+    "worldsGuides": "Mundos y versiones",
+    "privacyPolicy": "Política de privacidad",
+    "termsOfService": "Términos de servicio"
+  }
+}
