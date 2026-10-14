@@ -236,40 +236,67 @@ export interface NavGroup {
 }
 
 // 分组标题映射：slug → 人类可读标题（默认英文）
+// key 必须与 NAVIGATION_CONFIG 的分类 slug（content/<locale>/ 子目录名）一致
 const GROUP_TITLES: Record<string, string> = {
-  bosses: "Bosses",
-  races: "Races",
-  maps: "Maps & Areas",
-  skills: "Skills",
-  codes: "Codes",
-  guide: "Getting Started",
-  "tier-list": "Tier Lists",
+  guide: "Guides",
+  mechanics: "Mechanics",
+  building: "Building",
+  progression: "Progression",
+  items: "Items",
+  comparison: "Comparisons",
+  community: "Community",
+};
+
+// 西班牙语分组标题映射
+const GROUP_TITLES_ES: Record<string, string> = {
+  guide: "Guías",
+  mechanics: "Mecánicas",
+  building: "Construcción",
+  progression: "Progresión",
+  items: "Objetos",
+  comparison: "Comparativas",
+  community: "Comunidad",
+};
+
+// 巴西葡萄牙语分组标题映射
+const GROUP_TITLES_PT_BR: Record<string, string> = {
+  guide: "Guias",
+  mechanics: "Mecânicas",
+  building: "Construção",
+  progression: "Progressão",
+  items: "Itens",
+  comparison: "Comparativos",
+  community: "Comunidade",
 };
 
 // 日文分组标题映射
 const GROUP_TITLES_JA: Record<string, string> = {
-  bosses: "ボス",
-  races: "種族",
-  maps: "マップ & エリア",
-  skills: "スキル",
-  codes: "コード",
   guide: "初心者ガイド",
-  "tier-list": "Tier List",
+  mechanics: "ゲームシステム",
+  building: "建築",
+  progression: "進行",
+  items: "アイテム",
+  comparison: "比較",
+  community: "コミュニティ",
 };
 
 // locale → 分组标题映射
 const GROUP_TITLES_BY_LOCALE: Record<string, Record<string, string>> = {
+  es: GROUP_TITLES_ES,
+  "pt-br": GROUP_TITLES_PT_BR,
   ja: GROUP_TITLES_JA,
 };
 
 // locale → "Overview" 翻译
 const OVERVIEW_LABEL_BY_LOCALE: Record<string, string> = {
+  es: "Resumen",
+  "pt-br": "Visão geral",
   ja: "一覧",
 };
 
-// 分组排序顺序
+// 分组排序顺序（必须与 NAVIGATION_CONFIG 的分类 slug 集合一致）
 const GROUP_ORDER: string[] = [
-  "guide", "races", "bosses", "maps", "skills", "codes", "tier-list",
+  "guide", "mechanics", "building", "progression", "items", "comparison", "community",
 ];
 
 /**

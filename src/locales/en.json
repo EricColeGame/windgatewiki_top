@@ -8,7 +8,14 @@
   },
   "nav": {
     "menu": "Menu",
-    "toggleTheme": "Toggle theme"
+    "toggleTheme": "Toggle theme",
+    "guide": "Guide",
+    "mechanics": "Mechanics",
+    "building": "Building",
+    "progression": "Progression",
+    "items": "Items",
+    "comparison": "Comparison",
+    "community": "Community"
   },
   "home": {
     "meta": {
@@ -440,7 +447,34 @@
       "secondary": "Play Windgate on Roblox"
     }
   },
-  "bosses": {},
+  "guide": {
+    "overviewTitle": "Windgate Guide",
+    "overviewDescription": "Beginner walkthroughs, money-making routes, rare trees, and smelting tips — the Windgate guide collection answers every question new players search for first."
+  },
+  "mechanics": {
+    "overviewTitle": "Windgate Mechanics",
+    "overviewDescription": "How Windgate systems fit together: farming, resources, trees, wood types, tools, axes, and boats explained in plain language."
+  },
+  "building": {
+    "overviewTitle": "Windgate Building",
+    "overviewDescription": "House building, garages, foundations, and public use locations — the Windgate building guides walk through every structure you can raise."
+  },
+  "progression": {
+    "overviewTitle": "Windgate Progression",
+    "overviewDescription": "Iron, World 2.3, version 2.7, and beginner progression — see how Windgate unlocks new content as your save moves forward."
+  },
+  "items": {
+    "overviewTitle": "Windgate Items",
+    "overviewDescription": "Rare trees, best resources, new tools, and the complete wood guide — the Windgate items collection covers what to collect and why it matters."
+  },
+  "comparison": {
+    "overviewTitle": "Windgate Comparisons",
+    "overviewDescription": "Windgate vs Lumber Tycoon 2, Lumber Tycoon 3, the Defaultio connection, and whether the game is worth playing right now."
+  },
+  "community": {
+    "overviewTitle": "Windgate Community",
+    "overviewDescription": "Reddit, Discord, community builds, and update news — where Windgate players gather, trade tips, and track what changed."
+  },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
@@ -470,7 +504,7 @@
     "creatorPage": "Defaultio on Roblox",
     "gameplayVideo": "Windgate Gameplay Video",
     "beginnerGuide": "Beginner Guide",
-    "mapsGuides": "Maps & Worlds",
+    "worldsGuides": "Worlds & Versions",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
   }
