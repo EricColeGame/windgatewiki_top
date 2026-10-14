@@ -37,101 +37,101 @@
     },
     "start": {
       "eyebrow": "Start Here",
-      "title": "Your Windgate Journey",
+      "title": "Your Windgate Wiki Journey",
       "cards": [
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Learn the core loop first: chopping, hauling, selling, and the habits that keep a first session profitable."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Fastest Way to Make Money",
+          "description": "Route planning, load management, and selling timing that turn a single session into reliable income."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Best Trees for Money",
+          "description": "Starter, mid-tier, rare, and event woods ranked by payout, plus the loops that reach them in one run."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in Windgate."
+          "title": "Tool Upgrades",
+          "description": "Which axe, storage, and vehicle upgrades actually pay for themselves first, and in what order."
         }
       ]
     },
     "popular": {
       "eyebrow": "Popular Pages",
-      "title": "Trending Now",
+      "title": "Trending Windgate Guides",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Beginner Routes",
+        "Money Making",
+        "Wood Tiers",
+        "Tool Upgrades"
       ],
       "cards": [
         {
           "badge": "Beginner",
           "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "description": "A step-by-step start for new players, from the first route to the first upgrade.",
+          "href": "/guide/windgate-beginner-guide"
+        },
+        {
+          "badge": "Popular",
+          "title": "How to Make Money",
+          "description": "Prep checklist, bulk log hauling, high-value tree runs, and selling strategy.",
+          "href": "/guide/windgate-how-to-make-money"
+        },
+        {
+          "badge": "Popular",
+          "title": "Rare Trees",
+          "description": "Ebony, lavawood, and the axe tier each rare tree demands before you travel.",
+          "href": "/items/windgate-rare-trees"
         },
         {
           "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
+          "title": "New Tools",
+          "description": "How to evaluate a new axe or vehicle before you spend your cash on it.",
+          "href": "/items/windgate-new-tools"
         },
         {
-          "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
-        },
-        {
-          "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
-        },
-        {
-          "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
+          "badge": "Guide",
+          "title": "Wood Types",
+          "description": "Rarity tiers, weight, and respawn speed explained for every wood band.",
+          "href": "/mechanics/windgate-wood-types"
         },
         {
           "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
-        },
-        {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
+          "title": "Building Guide",
+          "description": "Plot choice, zoning, and storage-first layouts for your first house.",
+          "href": "/building/windgate-building-guide"
         },
         {
           "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
+          "title": "World 2.3",
+          "description": "The progression wall most players hit, and how to prepare for it.",
+          "href": "/progression/windgate-world-23"
         },
         {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "badge": "Guide",
+          "title": "Boat Mechanics",
+          "description": "Wind alignment, momentum, and cargo weight on every water crossing.",
+          "href": "/mechanics/windgate-boat"
+        },
+        {
+          "badge": "Community",
+          "title": "Discord",
+          "description": "How to find a real community server and avoid bad invites.",
+          "href": "/community/windgate-discord"
         }
       ]
     },
     "aboutGame": {
       "title": "What is Windgate?",
       "paragraphs": [
-        "Windgate is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Windgate is an open-world multiplayer sandbox on Roblox from developer Defaultio, where players chop trees, haul logs, mine ore, and sell what they gather to fund the next upgrade. The name is best known in Lumber Tycoon 2, where Windgate is a named landmark that players travel to rather than a step in the standard lumber loop.",
+        "Progress comes from tool tiers, carry capacity, and route knowledge. A stronger axe unlocks denser and rarer wood, storage and vehicles cut the travel time between patches, and processed goods such as refined iron or lavawood sell for far more than raw logs. The Windgate Wiki gathers that knowledge into step-by-step guides, tier tables, and build walkthroughs."
       ],
       "stats": [
         {
@@ -144,158 +144,260 @@
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Open-World Sandbox"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Core Loop",
+          "value": "Chop, Haul, Sell"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Key Tools",
+          "value": "Axe, Pickaxe, Boat"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
+          "label": "Upgrade Path",
+          "value": "Tool Tiers"
         },
         {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Community",
+          "value": "Discord and Reddit"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
       "title": "Explore Windgate Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "description": "Eight Windgate Wiki modules cover the full game loop: beginner routes, money making, tools and equipment, wood tiers, building, multiplayer, and updates.",
       "modules": [
         {
           "order": 1,
-          "name": "Windgate Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/windgate-codes",
-          "displayType": "code-box",
+          "name": "Windgate Wiki Beginner Guide",
+          "description": "A step-by-step start for new players: what to bring, how to plan a first route, and the habits that keep early sessions profitable.",
+          "href": "/guide/windgate-beginner-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "1",
+              "detail": "Stock up first: repair or replace your axe and keep a cash reserve before you travel."
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "2",
+              "detail": "Start from a landmark you already know so you can measure how far you have gone."
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "3",
+              "detail": "Track two or three distinctive features on the way out so you can find your way back."
+            },
+            {
+              "label": "4",
+              "detail": "Run a fixed loop: mid-tier hardwood first for a guaranteed baseline, then rare spawns in order."
+            },
+            {
+              "label": "5",
+              "detail": "Fill the remaining capacity with the highest tier wood your axe can actually fell."
+            },
+            {
+              "label": "6",
+              "detail": "Sell or mill the load, then bank 20-30% of the payout before buying upgrades."
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/windgate-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "Windgate Wiki Gameplay Guide",
+          "description": "How the core loop fits together: chopping, hauling, selling, and the landmarks that decide what a trip is worth.",
+          "href": "/guide/windgate-tutorial",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "Explore",
+              "detail": "Windgate is an optional landmark, so treat it as an exploration objective rather than a step in the lumber loop."
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "Routes",
+              "detail": "Confirm the current route before you commit, because landmarks shift between game versions."
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "Selling",
+              "detail": "Sell or mill high-value loads instead of dumping raw logs at the base price."
+            },
+            {
+              "label": "Storage",
+              "detail": "Storage near your sell point and furnace removes the travel time that eats into every run."
+            },
+            {
+              "label": "Upgrades",
+              "detail": "Spend first on a stronger axe and more carry capacity, since they raise income on every trip."
+            },
+            {
+              "label": "Patience",
+              "detail": "Plan for two or three attempts and compare notes with other players once you are done."
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/tier-list/windgate-tier-list",
-          "displayType": "tier-grid",
+          "name": "Windgate Wiki Tips and Tricks",
+          "description": "Small decisions that protect your time: load management, route planning, banking habits, and the mistakes that drain profit.",
+          "href": "/items/windgate-best-resources",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "Load",
+              "detail": "Empty your inventory completely before a run, because dead weight costs a full trip's profit."
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "Route",
+              "detail": "Follow a fixed loop every session so muscle memory replaces decision time."
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "Bank",
+              "detail": "Keep a 20-30% cash buffer so a single bad run cannot wipe your progress."
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "Spawns",
+              "detail": "Farm a nearby mid-tier patch while you wait for a rare spawn window to open."
+            },
+            {
+              "label": "Backup",
+              "detail": "Carry a backup axe so a repair or a swap never ends the session early."
+            },
+            {
+              "label": "Group",
+              "detail": "Team up for timed event wood, since solo hunting misses spawns and burns players out."
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/guide/windgate-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "Windgate Wiki Tools and Equipment",
+          "description": "Axes, vehicles, storage, and processing gear compared, with the upgrade order that pays for itself fastest.",
+          "href": "/items/windgate-new-tools",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "Starter Axe",
+              "detail": "Fells common wood slowly, which is enough to learn routes and build a first cash buffer.",
+              "badge": "Tier 1"
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "Improved Axe",
+              "detail": "Cuts uncommon hardwoods and some rares, and is the first upgrade that visibly raises income.",
+              "badge": "Tier 2"
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "High-Tier Axe",
+              "detail": "Fells rare trees such as ebony, and is the entry requirement for real rare-wood farming.",
+              "badge": "Tier 3"
+            },
+            {
+              "label": "Endgame Axe",
+              "detail": "Handles every wood tier at the fastest swing speed for maximum logs per trip.",
+              "badge": "Tier 4"
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/windgate-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "Windgate Wiki Game Modes and Worlds",
+          "description": "What changes as you move from early sessions to mid-game setups and the Windgate push itself.",
+          "href": "/progression/windgate-world-23",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "Early Game",
+              "detail": "Learn the map, find your sell point and storage, and earn steadily before chasing rares."
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "Mid Game",
+              "detail": "Tool upgrades and storage become the bottleneck, and running out of inventory space blocks progress."
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "Pre-Push",
+              "detail": "Stockpile roughly 1.5-2x your estimated need and scout the approach with an empty inventory."
+            },
+            {
+              "label": "Post-Gate",
+              "detail": "Rebuild your economy on the new tool tier, because pre-gate income no longer matches the costs."
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/guide/windgate-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "Windgate Wiki Tier List",
+          "description": "Wood and tree tiers ranked by payout, spawn rarity, and how much cargo capacity each one really costs.",
+          "href": "/items/windgate-rare-trees",
+          "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "S",
+              "detail": "Lavawood and other refined or limited-spawn woods: the highest ceiling, for planned sessions only."
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "A",
+              "detail": "Rare trees such as ebony, worth a long deep-grove route once you own a high-tier axe."
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "B",
+              "detail": "Mid-tier hardwoods, the steady daily earner and the baseline of every money loop."
+            },
+            {
+              "label": "C",
+              "detail": "Starter softwoods: reliable but low value, so use them only until your first upgrade."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Windgate Wiki Multiplayer Guide",
+          "description": "Playing with others: finding a real community server, splitting roles on a run, and trading without getting burned.",
+          "href": "/community/windgate-discord",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Servers",
+              "detail": "Verify an invite before joining, and treat unsolicited DMs and comment spam as red flags."
+            },
+            {
+              "label": "Roles",
+              "detail": "Split chopping, hauling, and selling so one group run beats four solo runs."
+            },
+            {
+              "label": "Trades",
+              "detail": "Check availability, trade history, and timing before paying a premium for a rare tool."
+            },
+            {
+              "label": "Events",
+              "detail": "Coordinate timed spawns in chat, because one message can save a twenty-minute search."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Windgate Wiki Updates and Patch Notes",
+          "description": "How to keep your routes current with patch notes, community wikis, and checks inside your own server.",
+          "href": "/community/windgate-updates",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Patch Notes",
+              "detail": "Read the official notes first, since they are authoritative even when they are terse.",
+              "badge": "Source"
+            },
+            {
+              "label": "Community Wiki",
+              "detail": "Structured and cross-referenced, but it can lag behind a fresh update.",
+              "badge": "Source"
+            },
+            {
+              "label": "Discord",
+              "detail": "The fastest firsthand reports, with quality that varies, so cross-check anything important.",
+              "badge": "Source"
+            },
+            {
+              "label": "In-Game Check",
+              "detail": "Old routes go stale, so confirm landmarks and prompts in your own server.",
+              "badge": "Verify"
             }
           ]
         }
@@ -303,27 +405,31 @@
     },
     "faq": {
       "title": "Frequently Asked Questions",
-      "description": "Quick answers to the most common questions about Windgate.",
+      "description": "Quick answers to the most common questions about Windgate, its core loop, and how to use the Windgate Wiki.",
       "items": [
         {
-          "question": "What is Windgate?",
-          "answer": "Windgate is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "question": "What is Windgate Wiki?",
+          "answer": "Windgate Wiki is a fan-built guide hub for Windgate, the open-world sandbox in Lumber Tycoon 2 from developer Defaultio. It collects beginner routes, money-making methods, wood tier tables, tool upgrades, and building walkthroughs in one place."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "What should I bring on my first Windgate run?",
+          "answer": "A working axe, a cash reserve for tools and repairs, and basic map knowledge. A friend helps you recover from wrong turns faster, and a daytime session makes navigation far easier."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "Why do different Windgate guides disagree?",
+          "answer": "Windgate sits inside a game that receives periodic updates, and much of what is known about it comes from player experience rather than official documentation. When two guides conflict, trust the more recent one and confirm the details in your own server."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "Is Windgate required for progression?",
+          "answer": "No. Windgate works as an optional exploration objective rather than a mandatory milestone, so you can chop, build, and sell for a long time before you ever visit it."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "Which trees are worth farming first in Windgate?",
+          "answer": "Mid-tier hardwoods are the steady earner. Build your income on them before chasing rare trees such as ebony, and only run limited-spawn or event woods once your gear is upgraded."
+        },
+        {
+          "question": "Does Windgate Wiki list working codes?",
+          "answer": "No. The wiki focuses on guides, tier tables, and mechanics, and it does not publish redeem codes for Windgate."
         }
       ]
     },
