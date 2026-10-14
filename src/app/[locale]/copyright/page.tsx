@@ -1,11 +1,12 @@
+import { siteConfig } from "@/config/site";
 import { LegalPage } from "@/components/legal-page";
 
 export default function CopyrightPage() {
   return (
     <LegalPage title="Copyright">
-      <p>VV: ULTIMATUM, Roblox, Bleach-inspired concepts, logos, and related media belong to their respective owners.</p>
-      <p>This clone is a non-official fan wiki implementation for educational and guide presentation purposes.</p>
-      <p>If you own rights to content displayed here and have a concern, please contact the site operator for review.</p>
+      <p>Windgate, Roblox, and all related game names, logos, artwork, and media belong to their respective owners, including Defaultio and Roblox Corporation.</p>
+      <p>Windgate Wiki is a non-official fan wiki written by players for informational and guide purposes. Screenshots and quoted material are used for commentary and reference only.</p>
+      <p>If you own the rights to content displayed here and have a concern, contact the site operator at <a className="text-foreground underline" href={`mailto:${siteConfig.supportEmail}`}>{siteConfig.supportEmail}</a> for review or removal.</p>
     </LegalPage>
   );
 }
